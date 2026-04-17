@@ -80,4 +80,6 @@ Covers complete churn lifecycle analysis
 This project demonstrates how data visualization + business intelligence can transform raw data into actionable insights, helping organizations reduce churn and improve customer retention.
 
 ##Live Demo
-![Customer Churn Dashboard](Dashboard.png)
+![Customer Churn Analysis Dashboard](Dashboard.png)
+![Customer Churn Prediction Dashboard](Dashboard2.png)
+
